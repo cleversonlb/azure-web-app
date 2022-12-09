@@ -6,7 +6,7 @@ import json
 import re
 import os
 
-#install java
+##install java
 os.system('apt install -y openjdk-8-jdk')
 
 app = Flask(__name__)
